@@ -1,0 +1,7 @@
+{
+  "name": "expandingCards",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
